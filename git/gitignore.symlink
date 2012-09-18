@@ -1,0 +1,6 @@
+*~
+*.elc
+.emacs.d/ac-comphist.dat
+.emacs.d/elpa
+.emacs.d/tramp
+.emacs.d/junk
